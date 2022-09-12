@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/Leoask">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leoask&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leoask&layout=compact&langs_count=5&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leoask&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leoask&layout=compact&langs_count=5&theme=material-palenight&include_all_commits=true&count_private=true"/>
 </div>
 
 <!--
